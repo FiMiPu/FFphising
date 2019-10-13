@@ -1,0 +1,2 @@
+# FFphising
+Gunakan dengan bijak
