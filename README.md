@@ -1,2 +1,2 @@
 # FFphising
-Gunakan dengan bijak
+Free script
